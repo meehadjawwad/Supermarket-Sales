@@ -59,3 +59,33 @@ Upon exploring the data, I was happy to conclude that all the variables (gender,
 
 ### Data Analysis
 For a deep analysis, I used the pandas and matplotlib + seaborn python libraries, and also imported the data into Tableau.
+
+The first part of the analysis was conducted in Python, in which I explored the first-layer of Customer Ratings.
+
+The average ratings across all variables was analysed, in light of the overall ratings.
+
+_Figure 1_:
+
+![Fig. 1](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/rating_analysis_1.png)
+
+A custom function was defined to extract variables with ratings below the overall average.
+
+_Figure 2_:
+
+![Fig. 2](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/rating_analysis_2.png)
+
+The distribution of the ratings was plotted, in order to assess the skew.
+
+_Figure 3_:
+
+![Fig. 3](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/ratings_distplot.png)
+
+Finally, ratings were plotted against _total_price_ and _quantity_ in order to determine if any correlations existed.
+
+_Figure 4_:
+
+![Fig. 4](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/price_x_rating.png)
+
+_Figure 5_:
+
+![Fig. 5](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/quantity_x_rating.png)
