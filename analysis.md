@@ -3,7 +3,7 @@
    * [First Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#first-layer)
    * [Second Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#second-layer)
    * [Third Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#third-layer)
-   * [Recommendations](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#recommendations)
+   * [Fourth Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#fourth-layer)
 
 ## Data Analysis
 For a deep analysis, I used the pandas and matplotlib + seaborn python libraries, and also imported the data into Tableau.
