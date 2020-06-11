@@ -13,29 +13,29 @@ The first part of the analysis was conducted in Python, in which I explored the 
 
 The average ratings across all variables was analysed, in light of the overall ratings.
 
-| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/rating_analysis_1.png' width='400'> |
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/rating_analysis_1.png' width='400'> |
 | :--: |
 | _Figure 1 - Single Variable Analysis_ |
 
 A custom function was defined to extract variables with ratings below the overall average.
 
-| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/rating_analysis_2.png' width='400'> |
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/rating_analysis_2.png' width='400'> |
 | :--: |
 | _Figure 2 - Below Average Ratings_ |
 
 The distribution of the ratings was plotted, in order to assess the skew.
 
-| ![Fig. 3](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/ratings_distplot.png) |
+| ![Fig. 3](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/ratings_distplot.png) |
 | :--: |
 | _Figure 3 - Distribution of Ratings_ |
 
 Finally, ratings were plotted against _total_price_ and _quantity_ in order to determine if any correlations existed.
 
-| ![Fig. 4](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/price_x_rating.png) |
+| ![Fig. 4](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/price_x_rating.png) |
 | :--: |
 | _Figure 4 - Relationship between Ratings and Total Price_ |
 
-| ![Fig. 5](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/quantity_x_rating.png) |
+| ![Fig. 5](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/quantity_x_rating.png) |
 | :--: |
 | _Figure 5 - Relationship between Ratings and Quantity_ |
 
@@ -60,27 +60,27 @@ The findings of the first-layer analysis are as follows:
 ### Second Layer
 The second layer of analysis was conducted in Tableau, in which I examined Customer Ratings given combinations of two variables.
 
-| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/gender_city.png' height='150'> |
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/gender_city.png' height='150'> |
 | :--: |
 | _Figure 6 - Ratings for different Cities according to Gender_ |
 
-| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/product_city.png' height='270'> |
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/product_city.png' height='270'> |
 | :--: |
 | _Figure 7 - Ratings for different Cities according to Product Line_ |
 
-| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/payment_city.png' height='180'> |
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/payment_city.png' height='180'> |
 | :--: |
 | _Figure 8 - Ratings for different Cities according to Payment Method_ |
 
-| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/gender_product.png' height='180'> |
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/gender_product.png' height='180'> |
 | :--: |
 | _Figure 9 - Ratings for different Product Lines according to Gender_ |
 
-| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/product_payment.png' height='300'> |
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/product_payment.png' height='300'> |
 | :--: |
 | _Figure 10 - Ratings for different Payment Methods according to Product Lines_ |
 
-| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/gender_payment.png' height='180'> |
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/gender_payment.png' height='180'> |
 | :--: |
 | _Figure 11 - Ratings for different Payment Methods according to Gender_ |
 
