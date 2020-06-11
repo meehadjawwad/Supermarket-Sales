@@ -78,7 +78,7 @@ _Figure 9_:
 
 _Figure 10_:
 
-![Fig. 10](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/payment_product.png)
+![Fig. 10](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/product_payment.png)
 
 _Figure 11_:
 
