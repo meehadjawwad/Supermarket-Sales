@@ -13,31 +13,31 @@ The first part of the analysis was conducted in Python, in which I explored the 
 
 The average ratings across all variables was analysed, in light of the overall ratings.
 
-_Figure 1_:
-
-![Fig. 1](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/rating_analysis_1.png)
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/rating_analysis_1.png' width='400'> |
+| :--: |
+| _Figure 1 - Single Variable Analysis_ |
 
 A custom function was defined to extract variables with ratings below the overall average.
 
-_Figure 2_:
-
-![Fig. 2](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/rating_analysis_2.png)
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/rating_analysis_2.png' width='400'> |
+| :--: |
+| _Figure 2 - Below Average Ratings_ |
 
 The distribution of the ratings was plotted, in order to assess the skew.
 
-_Figure 3_:
-
-![Fig. 3](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/ratings_distplot.png)
+| ![Fig. 3](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/ratings_distplot.png) |
+| :--: |
+| _Figure 3 - Distribution of Ratings_ |
 
 Finally, ratings were plotted against _total_price_ and _quantity_ in order to determine if any correlations existed.
 
-_Figure 4_:
+| ![Fig. 4](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/price_x_rating.png) |
+| :--: |
+| _Figure 4 - Relationship between Ratings and Total Price_ |
 
-![Fig. 4](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/price_x_rating.png)
-
-_Figure 5_:
-
-![Fig. 5](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/quantity_x_rating.png)
+| ![Fig. 5](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/quantity_x_rating.png) |
+| :--: |
+| _Figure 5 - Relationship between Ratings and Quantity_ |
 
 The findings of the first-layer analysis are as follows:
 
@@ -60,29 +60,48 @@ The findings of the first-layer analysis are as follows:
 ### Second Layer
 The second layer of analysis was conducted in Tableau, in which I examined Customer Ratings given combinations of two variables.
 
-_Figure 6_:
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/gender_city.png' height='150'> |
+| :--: |
+| _Figure 6 - Ratings for different Cities according to Gender_ |
 
-![Fig. 6](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/gender_city.png)
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/product_city.png' height='270'> |
+| :--: |
+| _Figure 7 - Ratings for different Cities according to Product Line_ |
 
-_Figure 7_:
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/payment_city.png' height='180'> |
+| :--: |
+| _Figure 8 - Ratings for different Cities according to Payment Method_ |
 
-![Fig. 7](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/product_city.png)
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/gender_product.png' height='180'> |
+| :--: |
+| _Figure 9 - Ratings for different Product Lines according to Gender_ |
 
-_Figure 8_:
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/product_payment.png' height='300'> |
+| :--: |
+| _Figure 10 - Ratings for different Payment Methods according to Product Lines_ |
 
-![Fig. 8](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/payment_city.png)
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/gender_payment.png' height='180'> |
+| :--: |
+| _Figure 11 - Ratings for different Payment Methods according to Gender_ |
 
-_Figure 9_:
+The findings of the second-layer analysis are as follows:
+- Male customers at Mandalay have given the lowest ratings.
+- Male customers at Yangon have given the highest ratings.
 
-![Fig. 9](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/gender_product.png)
+- The Sports and Travel department at Mandalay has the lowest average ratings.
+- The Fashion Accessories department at Naypyitaw has the highest average ratings.
 
-_Figure 10_:
+- Customers paying with E-wallets at Mandalay have given the lowest ratings.
+- Customers paying with credit-card at Naypyitaw have given the highest ratings.
 
-![Fig. 10](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/product_payment.png)
+- Female customers in the Home and Lifestyle department have given the lowest ratings.
+- Female customers in the Food and Beverages department have given the highest ratings.
 
-_Figure 11_:
+- Cash transactions in the Home and Lifestyle department have the lowest ratings.
+- Cash transactions in the Food and Beverages department have the highest ratings.
 
-![Fig. 11](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/gender_payment.png)
+- Male customers paying with cash have given the lowest ratings.
+- Feale customers paying with cash have given the highest ratings.
 
 ### Third Layer
 
