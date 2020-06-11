@@ -1,9 +1,9 @@
 ## Table of Contents
 1. [Data Analysis](https://github.com/meehadjawwad/Supermarket-Sales#data-analysis)
-   * [First Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#first-layer)
-   * [Second Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#second-layer)
-   * [Third Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#third-layer)
-   * [Fourth Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#fourth-layer)
+   * [First Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#first-layer-single-variable)
+   * [Second Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#second-layer-two-variables)
+   * [Third Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#third-layer-three-variables)
+   * [Fourth Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#fourth-layer-comparative-insights)
 
 ## Data Analysis
 For a deep analysis, I used the pandas and matplotlib + seaborn python libraries, and also imported the data into Tableau.
