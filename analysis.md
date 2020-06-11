@@ -8,7 +8,7 @@
 ## Data Analysis
 For a deep analysis, I used the pandas and matplotlib + seaborn python libraries, and also imported the data into Tableau.
 
-### First Layer
+### First Layer (Single Variable)
 The first part of the analysis was conducted in Python, in which I explored the first-layer of Customer Ratings (single variables).
 
 The average ratings across all variables was analysed, in light of the overall ratings.
@@ -57,7 +57,7 @@ The findings of the first-layer analysis are as follows:
 
 - There are no correlations between ratings and _total price of transaction_ and/or _quantity_.
 
-### Second Layer
+### Second Layer (Two Variables)
 The second layer of analysis was conducted in Tableau, in which I examined Customer Ratings given combinations of two variables.
 
 | <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/gender_city.png' height='150'> |
@@ -103,7 +103,7 @@ The findings of the second-layer analysis are as follows:
 - Male customers paying with cash have given the lowest ratings.
 - Feale customers paying with cash have given the highest ratings.
 
-### Third Layer
+### Third Layer (Three Variables)
 The third layer of analysis was also conducted in Tableau, in which combinations of three variables were examined.
 
 | <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/product_payment_gender.png' height='300'> |
@@ -122,4 +122,17 @@ The third layer of analysis was also conducted in Tableau, in which combinations
 | :--: |
 | _Figure 15 - Ratings according to Payment Method, City, and Gender_ |
 
-### Recommendations
+The findings of the third-layer analysis are as follows:
+- Female customers paying through E-wallet in the Sports and Travel department gave the lowest ratings.
+- Male customers paying through credit-card in the Electronic Accessories department gave the highest ratings.
+
+- Customers paying with cash in the Home and Lifestyle department at Yangon gave the lowest ratings.
+- Customers paying with cash in the Food and Beverages department at Mandalay gave the highest ratings.
+
+- Female customers in the Electronic Accessories department at Yangon gave the lowest ratings.
+- Female customers in the Fashion Accessories department at Naypyitaw gave the highest ratings.
+
+- Female customers paying through credit-card at Yangon gave the lowest ratings.
+- Female customers paying through credit-card at Naypyitaw gave the highest ratings.
+
+### Fourth Layer (Comparative Insights)
