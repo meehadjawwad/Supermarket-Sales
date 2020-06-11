@@ -1,12 +1,14 @@
 ## Table of Contents
 1. [Data Analysis](https://github.com/meehadjawwad/Supermarket-Sales#data-analysis)
-   * [First-Layer](https://github.com/meehadjawwad/Supermarket-Sales#first-layer)
-   * [Second-Layer](https://github.com/meehadjawwad/Supermarket-Sales#second-layer)
+   * [First Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#first-layer)
+   * [Second Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#second-layer)
+   * [Third Layer](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#third-layer)
+   * [Recommendations](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md#recommendations)
 
 ## Data Analysis
 For a deep analysis, I used the pandas and matplotlib + seaborn python libraries, and also imported the data into Tableau.
 
-### First-Layer
+### First Layer
 The first part of the analysis was conducted in Python, in which I explored the first-layer of Customer Ratings (single variables).
 
 The average ratings across all variables was analysed, in light of the overall ratings.
@@ -55,9 +57,34 @@ The findings of the first-layer analysis are as follows:
 
 - There are no correlations between ratings and _total price of transaction_ and/or _quantity_.
 
-### Second-Layer
+### Second Layer
 The second layer of analysis was conducted in Tableau, in which I examined Customer Ratings given combinations of two variables.
 
 _Figure 6_:
 
-![Fig. 6]
+![Fig. 6](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/gender_city.png)
+
+_Figure 7_:
+
+![Fig. 7](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/product_city.png)
+
+_Figure 8_:
+
+![Fig. 8](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/payment_city.png)
+
+_Figure 9_:
+
+![Fig. 9](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/gender_product.png)
+
+_Figure 10_:
+
+![Fig. 10](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/payment_product.png)
+
+_Figure 11_:
+
+![Fig. 11](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/screenshots/gender_payment.png)
+
+### Third Layer
+
+
+### Recommendations
