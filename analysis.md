@@ -104,6 +104,22 @@ The findings of the second-layer analysis are as follows:
 - Feale customers paying with cash have given the highest ratings.
 
 ### Third Layer
+The third layer of analysis was also conducted in Tableau, in which combinations of three variables were examined.
 
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/product_payment_gender.png' height='300'> |
+| :--: |
+| _Figure 12 - Ratings according to Product Line, Payment Method, and Gender_ |
+
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/product_payment_city.png' height='240'> |
+| :--: |
+| _Figure 13 - Ratings according to Product Line, Payment Method, and City_ |
+
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/product_city_gender.png' height='300'> |
+| :--: |
+| _Figure 14 - Ratings according to Product Line, City, and Gender_ |
+
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/payment_gender_city.png' height='210'> |
+| :--: |
+| _Figure 15 - Ratings according to Payment Method, City, and Gender_ |
 
 ### Recommendations
