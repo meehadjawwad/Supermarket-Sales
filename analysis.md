@@ -84,6 +84,25 @@ The second layer of analysis was conducted in Tableau, in which I examined Custo
 | :--: |
 | _Figure 11 - Ratings for different Payment Methods according to Gender_ |
 
+The findings of the second-layer analysis are as follows:
+- Male customers at Mandalay have given the lowest ratings.
+- Male customers at Yangon have given the highest ratings.
+
+- The Sports and Travel department at Mandalay has the lowest average ratings.
+- The Fashion Accessories department at Naypyitaw has the highest average ratings.
+
+- Customers paying with E-wallets at Mandalay have given the lowest ratings.
+- Customers paying with credit-card at Naypyitaw have given the highest ratings.
+
+- Female customers in the Home and Lifestyle department have given the lowest ratings.
+- Female customers in the Food and Beverages department have given the highest ratings.
+
+- Cash transactions in the Home and Lifestyle department have the lowest ratings.
+- Cash transactions in the Food and Beverages department have the highest ratings.
+
+- Male customers paying with cash have given the lowest ratings.
+- Feale customers paying with cash have given the highest ratings.
+
 ### Third Layer
 
 
