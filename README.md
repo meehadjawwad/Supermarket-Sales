@@ -2,7 +2,7 @@
 
 ## Aim of the Project
 The aim of this project was to:
-- Conduct a deep analysis of Customer Ratings.
+- Conduct a deep analysis of Customer Ratings for a supermarket chain.
 - Develop recommendations and provide actionable insights.
 
 ## Table of Contents
@@ -15,6 +15,7 @@ The aim of this project was to:
     * [Data Cleaning](https://github.com/meehadjawwad/Supermarket-Sales#data-cleaning)
     * [Data Exploration](https://github.com/meehadjawwad/Supermarket-Sales#data-exploration)
     * [Data Analysis](https://github.com/meehadjawwad/Supermarket-Sales#data-analysis)
+    * [Recommendations](https://github.com/meehadjawwad/Supermarket-Sales#recommendations)
 
 ## Hardware Used
 - MacBook Pro (Retina, 13-inch, Early 2015)
@@ -43,7 +44,6 @@ The aim of this project was to:
 - Matplotlib
 - Seaborn
 - Tableau
-- Adobe Illustrator
 
 ## Executive Summary
 As stated earlier, there were two aims of this project:
@@ -61,3 +61,7 @@ The data includes 1,000 transactions and 13 columns.
 Upon exploring the data, I was happy to conclude that all the variables (gender, branch, product_line, customer_type, payment_method) were fairly represented.
 
 ### Data Analysis
+Data Analysis was conducted in Python and Tableau, with the aim of analysing the performance of employees in terms of customer experience, and exlporing trends and patterns, so that actionable insights can be generated. It was conducted on four different layers, and can be found [here](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md).
+
+### Recommendations
+After conductind deep data analysis, actionable insights were generated and recommendations were put forward. They can be found [here](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/recommendations.md).
