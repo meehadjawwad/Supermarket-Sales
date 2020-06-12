@@ -2,7 +2,7 @@
 
 ## Aim of the Project
 The aim of this project was to:
-- Conduct a deep analysis of Customer Ratings.
+- Conduct a deep analysis of Customer Ratings for a supermarket chain.
 - Develop recommendations and provide actionable insights.
 
 ## Table of Contents
