@@ -27,11 +27,12 @@ The aim of this project was to:
 - data:
   - supermarket_sales.csv: raw data file
   - supermarket_sales_clean.csv: cleaned data file
+- images: folder containing images
 - jupyter_notebooks:
-  - cleaning.ipynb: notebook for initial data cleaning.
-  - analysis.ipynb: notebook for analysis.
-- supermarket.pdf: presentation, including analysis and recommendations.
-- requirements.txt: includes a list of python libraries used in the project.
+  - cleaning.ipynb: notebook for initial data cleaning
+  - analysis.ipynb: notebook for analysis
+- analysis.md: markdown file containing in-depth analysis
+- recommendations.md: markdown file containing actionable insights and recommendations
 
 ## Methods Used
 - Data cleaning
