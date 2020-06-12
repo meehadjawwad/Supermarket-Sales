@@ -136,3 +136,18 @@ The findings of the third-layer analysis are as follows:
 - Female customers paying through credit-card at Naypyitaw gave the highest ratings.
 
 ### Fourth Layer (Comparative Insights)
+The fourth layer of analysis was also conducted in Tableau, where all possible combinations of the variables were examined. The purpose of doing this was to generate comparative insights.
+
+| <img src='https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/comparative.png' height='660'> |
+| :--: |
+| _Figure 16 - Comparative Insights_ |
+
+The findings of this layer of analysis are as follows:
+- Bottom 3 ratings:
+  * Female customers, paying through E-wallet, in the Sports and Travel department at Naypyitaw.
+  * Male customers, paying through E-wallet, in the Electronic Accessories department at Naypyitaw.
+  * Male customers, paying with cash, in the Food and Beverages department at Mandalay.
+- Top 3 ratings:
+  * Female customers, paying with cash, in the Food and Beverages department at Mandalay.
+  * Male customers, paying through credit-card, in the Electronic Accessories department at Yangon.
+  * Male customers, paying through E-wallet, in the Sports and Travel department at Naypyitaw.
