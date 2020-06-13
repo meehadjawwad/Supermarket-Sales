@@ -29,7 +29,7 @@ The distribution of the ratings was plotted, in order to assess the skew.
 | :--: |
 | _Figure 3 - Distribution of Ratings_ |
 
-Finally, ratings were plotted against _total_price_ and _quantity_ in order to determine if any correlations existed.
+Finally, ratings were plotted against `total_price` and `quantity` in order to determine if any correlations existed.
 
 | ![Fig. 4](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/images/price_x_rating.png) |
 | :--: |
@@ -45,17 +45,17 @@ The findings of the first-layer analysis are as follows:
 - The lowest overall rating is 4.0
 - The average overall rating is 6.97
 
-- Mandalay's (branch) overall rating of 6.82 is below the overall average.
-- Naypyitaw's (branch) overall rating of 7.07 is the highest among the three branches.
+- `Mandalay's` overall rating of 6.82 is below the overall average.
+- `Naypyitaw's` overall rating of 7.07 is the highest among the three branches.
 
 - The following product lines have an average rating which is below the overall average:
-   - Electronic accessories
-   - Home and lifestyle
-   - Sports and travel
+   - `Electronic accessories`
+   - `Home and lifestyle`
+   - `Sports and travel`
 
 - Ratings between the lowest and highest are equally distributed.
 
-- There are no correlations between ratings and _total price of transaction_ and/or _quantity_.
+- There are no correlations between `ratings` and `total price of transaction` and/or `quantity`.
 
 ### Second Layer (Two Variables)
 The second layer of analysis was conducted in Tableau, in which I examined Customer Ratings given combinations of two variables.
@@ -85,23 +85,24 @@ The second layer of analysis was conducted in Tableau, in which I examined Custo
 | _Figure 11 - Ratings for different Payment Methods according to Gender_ |
 
 The findings of the second-layer analysis are as follows:
-- Male customers at Mandalay have given the lowest ratings.
-- Male customers at Yangon have given the highest ratings.
 
-- The Sports and Travel department at Mandalay has the lowest average ratings.
-- The Fashion Accessories department at Naypyitaw has the highest average ratings.
+- `Male` customers at `Mandalay` have given the lowest ratings.
+- `Male` customers at `Yangon` have given the highest ratings.
 
-- Customers paying with E-wallets at Mandalay have given the lowest ratings.
-- Customers paying with credit-card at Naypyitaw have given the highest ratings.
+- The `Sports and Travel` department at `Mandalay` has the lowest average ratings.
+- The `Fashion Accessories` department at `Naypyitaw` has the highest average ratings.
 
-- Female customers in the Home and Lifestyle department have given the lowest ratings.
-- Female customers in the Food and Beverages department have given the highest ratings.
+- Customers paying with `E-wallets` at `Mandalay` have given the lowest ratings.
+- Customers paying with `credit-card` at `Naypyitaw` have given the highest ratings.
 
-- Cash transactions in the Home and Lifestyle department have the lowest ratings.
-- Cash transactions in the Food and Beverages department have the highest ratings.
+- `Female` customers in the `Home and Lifestyle` department have given the lowest ratings.
+- `Female` customers in the `Food and Beverages` department have given the highest ratings.
 
-- Male customers paying with cash have given the lowest ratings.
-- Feale customers paying with cash have given the highest ratings.
+- `Cash` transactions in the `Home and Lifestyle` department have the lowest ratings.
+- `Cash` transactions in the `Food and Beverages` department have the highest ratings.
+
+- `Male` customers paying with `cash` have given the lowest ratings.
+- `Female` customers paying with `cash` have given the highest ratings.
 
 ### Third Layer (Three Variables)
 The third layer of analysis was also conducted in Tableau, in which combinations of three variables were examined.
@@ -123,17 +124,18 @@ The third layer of analysis was also conducted in Tableau, in which combinations
 | _Figure 15 - Ratings according to Payment Method, City, and Gender_ |
 
 The findings of the third-layer analysis are as follows:
-- Female customers paying through E-wallet in the Sports and Travel department gave the lowest ratings.
-- Male customers paying through credit-card in the Electronic Accessories department gave the highest ratings.
 
-- Customers paying with cash in the Home and Lifestyle department at Yangon gave the lowest ratings.
-- Customers paying with cash in the Food and Beverages department at Mandalay gave the highest ratings.
+- `Female` customers paying through `E-wallet` in the `Sports and Travel` department gave the lowest ratings.
+- `Male` customers paying through `credit-card` in the `Electronic Accessories` department gave the highest ratings.
 
-- Female customers in the Electronic Accessories department at Yangon gave the lowest ratings.
-- Female customers in the Fashion Accessories department at Naypyitaw gave the highest ratings.
+- Customers paying with `cash` in the `Home and Lifestyle` department at `Yangon` gave the lowest ratings.
+- Customers paying with `cash` in the `Food and Beverages` department at `Mandalay` gave the highest ratings.
 
-- Female customers paying through credit-card at Yangon gave the lowest ratings.
-- Female customers paying through credit-card at Naypyitaw gave the highest ratings.
+- `Female` customers in the `Electronic Accessories` department at `Yangon` gave the lowest ratings.
+- `Female` customers in the `Fashion Accessories` department at `Naypyitaw` gave the highest ratings.
+
+- `Female` customers paying through `credit-card` at `Yangon` gave the lowest ratings.
+- `Female` customers paying through `credit-card` at `Naypyitaw` gave the highest ratings.
 
 ### Fourth Layer (Comparative Insights)
 The fourth layer of analysis was also conducted in Tableau, where all possible combinations of the variables were examined. The purpose of doing this was to generate comparative insights.
@@ -143,11 +145,13 @@ The fourth layer of analysis was also conducted in Tableau, where all possible c
 | _Figure 16 - Comparative Insights_ |
 
 The findings of this layer of analysis are as follows:
+
 - Bottom 3 ratings:
-  * Female customers, paying through E-wallet, in the Sports and Travel department at Naypyitaw.
-  * Male customers, paying through E-wallet, in the Electronic Accessories department at Naypyitaw.
-  * Male customers, paying with cash, in the Food and Beverages department at Mandalay.
+  * `Female` customers, paying through `E-wallet`, in the `Sports and Travel` department at `Naypyitaw`.
+  * `Male` customers, paying through `E-wallet`, in the `Electronic Accessories` department at `Naypyitaw`.
+  * `Male` customers, paying with cash, in the Food and Beverages department at Mandalay.
+  
 - Top 3 ratings:
-  * Female customers, paying with cash, in the Food and Beverages department at Mandalay.
-  * Male customers, paying through credit-card, in the Electronic Accessories department at Yangon.
-  * Male customers, paying through E-wallet, in the Sports and Travel department at Naypyitaw.
+  * `Female` customers, paying with `cash`, in the `Food and Beverages` department at `Mandalay`.
+  * `Male` customers, paying through `credit-card`, in the `Electronic Accessories` department at `Yangon`.
+  * `Male` customers, paying through `E-wallet`, in the `Sports and Travel` department at `Naypyitaw`.
