@@ -2,6 +2,7 @@
 
 ## Aim of the Project
 The aim of this project was to:
+
 - Conduct a deep analysis of Customer Ratings for a supermarket chain.
 - Develop recommendations and provide actionable insights.
 
@@ -18,21 +19,23 @@ The aim of this project was to:
     * [Recommendations](https://github.com/meehadjawwad/Supermarket-Sales#recommendations)
 
 ## Hardware Used
-- MacBook Pro (Retina, 13-inch, Early 2015)
-- Processor: 2.9 GHz Dual-Core Intel Core i5
-- Memory: 8 GB 1867 MHz DDR3
-- OS: macOS Catalina (version 10.15.3)
+```
+MacBook Pro (Retina, 13-inch, Early 2015)
+Processor: 2.9 GHz Dual-Core Intel Core i5
+Memory: 8 GB 1867 MHz DDR3
+OS: macOS Catalina (version 10.15.3)
+```
 
 ## File Descriptions
 - data:
-  - supermarket_sales.csv: raw data file
-  - supermarket_sales_clean.csv: cleaned data file
+  - [`supermarket_sales.csv`](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/data/supermarket_sales.csv): raw data file
+  - [`supermarket_sales_clean.csv`](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/data/supermarket_sales_clean.csv): cleaned data file
 - images: folder containing images
 - jupyter_notebooks:
-  - cleaning.ipynb: notebook for initial data cleaning
-  - analysis.ipynb: notebook for analysis
-- analysis.md: markdown file containing in-depth analysis
-- recommendations.md: markdown file containing actionable insights and recommendations
+  - [`cleaning.ipynb`](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/jupyter_notebooks/cleaning.ipynb): notebook for initial data cleaning
+  - [`analysis.ipynb`](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/jupyter_notebooks/analysis.ipynb): notebook for analysis
+- [`analysis.md`]((https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md)): markdown file containing in-depth analysis
+- [`recommendations.md`](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/recommendations.md): markdown file containing actionable insights and recommendations
 
 ## Methods Used
 - Data cleaning
@@ -48,6 +51,7 @@ The aim of this project was to:
 
 ## Executive Summary
 As stated earlier, there were two aims of this project:
+
 - Conduct a deep analysis of Customer Ratings.
 - Develop recommendations and provide actionable insights.
 
@@ -59,7 +63,7 @@ All the column names were made more analysis-friendly and some of them were rena
 
 ### Data Exploration
 The data includes 1,000 transactions and 13 columns.
-Upon exploring the data, I was happy to conclude that all the variables (gender, branch, product_line, customer_type, payment_method) were fairly represented.
+Upon exploring the data, I was happy to conclude that all the variables (gender, city, product_line, customer_type, payment_method) were represented fairly.
 
 ### Data Analysis
 Data Analysis was conducted in Python and Tableau, with the aim of analysing the performance of employees in terms of customer experience, and exlporing trends and patterns, so that actionable insights can be generated. It was conducted on four different layers, and can be found [here](https://github.com/meehadjawwad/Supermarket-Sales/blob/master/analysis.md).
